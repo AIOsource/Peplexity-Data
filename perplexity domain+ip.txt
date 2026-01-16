@@ -1,0 +1,630 @@
+----------------------------------------------------------------------
+
+Subdomain: admin.i.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: agi-v2.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: api.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: backtoschool-prod-framer.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: blog.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: browser-download.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: business-fellowship-framer-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: comet-framer-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: comet-safebrowsing.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+--------------------------------------------------
+
+Subdomain: comet.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: community.perplexity.ai
+IPs: 184.105.99.43
+--------------------------------------------------
+
+Subdomain: discover-audio.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: docs.perplexity.ai
+IPs: 66.33.60.35, 76.76.21.123
+--------------------------------------------------
+
+Subdomain: education-framer-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: email.perplexity.ai
+IPs: 34.102.239.211
+--------------------------------------------------
+
+Subdomain: encyclopedia-prod-framer.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: enterprise-auth.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: enterprise-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: enterprise.perplexity.ai
+IPs: 172.66.0.96, 162.159.140.98
+--------------------------------------------------
+
+Subdomain: labs.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: omni-insights.perplexity.ai
+IPs: 100.50.5.50, 54.87.37.88, 35.174.46.174
+--------------------------------------------------
+
+Subdomain: playground.perplexity.ai
+IPs: 104.18.27.48, 104.18.26.48
+--------------------------------------------------
+
+Subdomain: pplx-browser-extensions.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: pplx-browser-favicons.perplexity.ai
+IPs: 104.18.27.48, 104.18.26.48
+--------------------------------------------------
+
+Subdomain: pplx-next-static-public.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: pplx-static-sourcemaps.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+--------------------------------------------------
+
+Subdomain: presentpicker-framer-prod.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: preview.i.perplexity.ai
+IPs: 172.67.75.11, 104.26.5.14, 104.26.4.14
+--------------------------------------------------
+
+Subdomain: productmanagers-prod-framer.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: r2cdn.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: social.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: sonar.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: stripe.perplexity.ai
+IPs: 104.18.35.156, 172.64.152.100
+--------------------------------------------------
+
+Subdomain: suggest.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: trust.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: url5023.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: www.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: www.social.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: *.preview.i.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: 2024recap-framer-prod.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: admin.i.perplexity.ai
+IPs: 104.18.27.48, 104.18.26.48
+--------------------------------------------------
+
+Subdomain: admin.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: admin.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: agents.i.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+--------------------------------------------------
+
+Subdomain: agi-v2.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: agi-v2.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: ai.i.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: api.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: api.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: argocd-test.i.perplexity.ai
+IPs: 10.19.143.150, 10.19.253.252, 10.19.111.16, 10.19.31.251
+--------------------------------------------------
+
+Subdomain: backtoschool-prod-framer.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: blog.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: blog.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: browser-download.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: business-fellowship-framer-prod.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: comet-feedback.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+--------------------------------------------------
+
+Subdomain: comet-framer-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: comet-framer-prod.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: comet-safebrowsing.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: comet.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: comet.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: community.perplexity.ai
+IPs: 184.105.99.43
+--------------------------------------------------
+
+Subdomain: curators-framer-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: demo.perplexity.ai
+IPs: 216.150.1.1, 216.150.16.65
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: demo.perplexity.ai
+IPs: 216.150.16.65, 216.150.1.1
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: discover-audio.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+--------------------------------------------------
+
+Subdomain: docs.perplexity.ai
+IPs: 66.33.60.194, 76.76.21.93
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: docs.perplexity.ai
+IPs: 76.76.21.93, 66.33.60.194
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: education-framer-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: education-framer-prod.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: email.mg-supply.perplexity.ai
+IPs: 34.102.239.211
+--------------------------------------------------
+
+Subdomain: email.perplexity.ai
+IPs: 34.102.239.211
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: encyclopedia-prod-framer.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: encyclopedia-prod-framer.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: enterprise-auth.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: enterprise-authkit.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: enterprise-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: enterprise-prod.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: enterprise-setup.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: enterprise.perplexity.ai
+IPs: 162.159.140.98, 172.66.0.96
+--------------------------------------------------
+
+Subdomain: enterprise.perplexity.ai
+IPs: 172.66.0.96, 162.159.140.98
+--------------------------------------------------
+
+Subdomain: fellowship.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: hub-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: intercom-help-center.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: labs.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: labs.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: n.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: omni-insights.perplexity.ai
+IPs: 35.174.46.174, 54.87.37.88, 100.50.5.50
+--------------------------------------------------
+
+Subdomain: omni-insights.perplexity.ai
+IPs: 100.50.5.50, 35.174.46.174, 54.87.37.88
+--------------------------------------------------
+
+Subdomain: playground.perplexity.ai
+IPs: 104.18.27.48, 104.18.26.48
+--------------------------------------------------
+
+Subdomain: podcast.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: pplx-audio-voice-samples-public.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+--------------------------------------------------
+
+Subdomain: pplx-browser-extensions.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: pplx-browser-extensions.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: pplx-browser-favicons.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: pplx-browser.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: pplx-next-static-public.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: pplx-next-static-public.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: pplx-restricted-static.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: pplx-sidecar-v2.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: pplx-static-sourcemaps.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: presentpicker-framer-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: preview.i.perplexity.ai
+IPs: 104.26.4.14, 172.67.75.11, 104.26.5.14
+--------------------------------------------------
+
+Subdomain: preview.i.perplexity.ai
+IPs: 104.26.5.14, 172.67.75.11, 104.26.4.14
+--------------------------------------------------
+
+Subdomain: productmanagers-prod-framer.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: productmanagers-prod-framer.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: r2cdn.perplexity.ai
+IPs: 104.18.27.48, 104.18.26.48
+--------------------------------------------------
+
+Subdomain: r2cdn.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+--------------------------------------------------
+
+Subdomain: research.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: search.i.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: skiafy.i.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: social.perplexity.ai
+IPs: 52.223.52.2, 35.71.142.77
+--------------------------------------------------
+
+Subdomain: sonar.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: st.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: staging.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: static.i.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: status.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: stripe.perplexity.ai
+IPs: 172.64.152.100, 104.18.35.156
+--------------------------------------------------
+
+Subdomain: suggest.perplexity.ai
+IPs: 104.18.27.48, 104.18.26.48
+--------------------------------------------------
+
+Subdomain: teachers-prod.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: testing.i.perplexity.ai
+IPs: 10.19.11.217, 10.16.31.240, 10.19.216.169, 10.16.155.51
+--------------------------------------------------
+
+Subdomain: trust.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: trust.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+--------------------------------------------------
+
+Subdomain: ui.i.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
+Subdomain: url5023.perplexity.ai
+IPs: 104.18.26.48, 104.18.27.48
+--------------------------------------------------
+
+Subdomain: www.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: www.perplexity.ai
+IPs: 8.6.112.0, 8.47.69.0
+Status Code: N/A
+Title: N/A
+Server: N/A
+Content Type: N/A
+Response Time: 0.00s
+User Agent Used: N/A
+Technologies: None
+--------------------------------------------------
+
+Subdomain: www.social.perplexity.ai
+IPs: 35.71.142.77, 52.223.52.2
+--------------------------------------------------
+
+Subdomain: yt.i.perplexity.ai
+IPs: 8.47.69.0, 8.6.112.0
+--------------------------------------------------
+
